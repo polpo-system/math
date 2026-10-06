@@ -22,4 +22,5 @@ against 0.57 s); the results agree to the precision checked by MathTest (1E-5 fo
 Install with portia: `portia.Install math` (the x86 files on x86, the portable ones on ARM,
 ARMv7, RISC-V and MIPS); `portia.Test math`.
 
-The license is the one of ETH Oberon: see `LICENSE`.
+The license is GPL-3 (`LICENSE`); the code comes from ETH Oberon, whose license (`LICENSE.ETH`)
+asks to keep its copyright notice and conditions, which `LICENSE.ETH` does.
